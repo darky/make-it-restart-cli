@@ -1,0 +1,30 @@
+{
+  "name": "make-it-restart-cli",
+  "version": "1.0.0",
+  "description": "Allow restart your cli process",
+  "bin": "./index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restart",
+    "reboot",
+    "cli",
+    "manual",
+    "process",
+    "command line"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darky/make-it-restart-cli.git"
+  },
+  "author": "Vladislav Botvin",
+  "license": "MIT",
+  "dependencies": {
+    "make-it-restart": "2.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "10.5.1"
+  }
+}
